@@ -1,11 +1,3 @@
----
-type: note
-status: evergreen
-tags:
-  - project/pro-MScFE
-up: 
-created: 2026-07-29
----
 # MScFE_Finance Engineering - WHAT-IS?
 
 ## Summary
