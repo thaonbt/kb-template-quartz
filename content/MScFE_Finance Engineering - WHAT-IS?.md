@@ -1,6 +1,6 @@
 ---
 type: note
-status: 🌳 evergreen
+status: evergreen
 tags:
   - project/pro-MScFE
 up: "[[_MOC KNOWLEDGE]]"
@@ -8,13 +8,13 @@ created: 2026-07-29
 ---
 # MScFE_Finance Engineering - WHAT-IS?
 
-## ✍️ Summary
+## Summary
 
 - Talk with Gemini, https://share.gemini.google/nIDTmf0gIFum
 
 ---
 
-# 🤖 AI Conversations
+# AI Conversations
 
 ## AI 1: tương lai của ngành Tài chính định lượng
 
@@ -93,28 +93,28 @@ Nói một cách ngắn gọn: Nếu tài chính truyền thống tập trung v�
 
 Chương trình đào tạo này chuẩn bị cho người học đảm nhận 4 nhóm vai trò chính trong nền kinh tế hiện đại:
 
-##### ⚙️ Tạo ra các sản phẩm tài chính phức tạp (Financial Product Innovation)
+##### Tạo ra các sản phẩm tài chính phức tạp (Financial Product Innovation)
 
 Kỹ sư tài chính không chỉ phân tích sản phẩm có sẵn mà là người **thiết kế ra sản phẩm mới**.
 
 - Thiết kế các hợp đồng phái sinh (Derivatives), sản phẩm cấu trúc (Structured Products) phù hợp với nhu cầu phòng ngừa rủi ro của doanh nghiệp hoặc khẩu vị đầu tư của các quỹ.
 - Xác định công thức định giá hợp lý cho các tài sản phi rủi ro hoặc có biến động cao.
 
-##### 🛡️ Tối ưu hóa và Quản trị rủi ro hệ thống (Risk Management)
+##### Tối ưu hóa và Quản trị rủi ro hệ thống (Risk Management)
 
 Trong một thị trường biến động 24/7, việc quản trị rủi ro bằng tay là không thể.
 
 - Xây dựng các mô hình mô phỏng (như Monte Carlo, Stress Testing, VaR) để dự báo kịch bản khủng hoảng và đo lường mức độ rủi ro của danh mục đầu tư trị giá hàng tỷ USD.
 - Đảm bảo các ngân hàng và quỹ tuân thủ đúng các tiêu chuẩn an toàn vốn quốc tế (như Basel III / Basel IV).
 
-##### 🤖 Tự động hóa và Tối ưu hóa giao dịch (Algorithmic & Quant Trading)
+##### Tự động hóa và Tối ưu hóa giao dịch (Algorithmic & Quant Trading)
 
 Kỹ sư tài chính là lực lượng nòng cốt xây dựng nên các hệ thống giao dịch thuật toán:
 
 - Phát triển các thuật toán phát hiện tín hiệu mua/bán từ dữ liệu thị trường theo thời gian thực (Real-time Market Data).
 - Xây dựng hệ thống giao dịch tần số cao (High-Frequency Trading - HFT) để tối ưu hóa tốc độ khớp lệnh ở cấp độ miligiây/microgiây và giảm thiểu chi phí tác động thị trường (Slippage).
 
-##### 🌐 Chuẩn hóa và Vận hành Tài chính Số & Tài sản Số (Digital Finance & DeFi)
+##### Chuẩn hóa và Vận hành Tài chính Số & Tài sản Số (Digital Finance & DeFi)
 
 Trong bối cảnh công nghệ mới, chương trình Financial Engineering đóng vai trò đặt nền móng toán học cho:
 
@@ -179,12 +179,12 @@ Môi trường làm việc của ngành Quant phụ thuộc rất lớn vào **l
 
 **Câu trả lời ngắn gọn: Có, áp lực rất cao – nhưng loại áp lực sẽ khác nhau tùy theo vị trí.**
 
-##### 🔴 Với Quant Trader & Quant Developer (mảng Trading / Prop Firms):
+##### Với Quant Trader & Quant Developer (mảng Trading / Prop Firms):
 
 - **Áp lực tiền bạc thời gian thực (PnL - Profit & Loss):** Mỗi ngày làm việc, bạn nhìn thấy con số lời/lỗ chạy liên tục theo từng giây. Nếu thuật toán bị lỗi hoặc chiến lược đi sai hướng gây thiệt hại tài sản lớn, áp lực tâm lý vô cùng khủng khiếp.
 - **Chạy đua về tốc độ:** "Deadline" ở đây đôi khi tính bằng **mili-giây**. Việc đối thủ tối ưu hóa mã nguồn nhanh hơn bạn có thể khiến toàn bộ hệ thống của bạn mất đi lợi thế cạnh tranh.
 
-##### 🟡 Với Quant Risk / Pricing Model Analyst (mảng Ngân hàng / Quản trị rủi ro):
+##### Với Quant Risk / Pricing Model Analyst (mảng Ngân hàng / Quản trị rủi ro):
 
 - **Chạy deadline dự án và báo cáo:** Áp lực ở đây giống với môi trường công nghệ/doanh nghiệp truyền thống. Bạn có các kỳ kiểm tra rủi ro (Stress Testing), kiểm toán, hoặc hạn chót ra mắt sản phẩm mới.
 - **Tính chính xác tuyệt đối:** Một sai sót nhỏ trong công thức toán học hay dòng mã lập trình có thể dẫn đến việc định giá sai hàng triệu USD hoặc vi phạm quy định pháp lý của Ngân hàng Trung ương.
@@ -235,19 +235,19 @@ Nhà đầu tư cá nhân thua lỗ vì cố gắng **dự báo thị trường*
 
 Để né tránh rủi ro chu kỳ và Market Maker, bạn cần áp dụng các chiến lược sau:
 
-##### 🛡️ Chiến lược 1: Systematic Trend Following (Bám đuổi xu hướng hệ thống)
+##### Chiến lược 1: Systematic Trend Following (Bám đuổi xu hướng hệ thống)
 
 - **Cách hoạt động:** Không đoán khi nào chu kỳ đỉnh/đáy diễn ra. Xây dựng bộ quy tắc thuật toán (Ví dụ: kết hợp Moving Average Cross, ATR - Average True Range, Breakout).
 - **Chống rủi ro chu kỳ:** Khi thị trường vào Super Trend (Uptrend mạnh), thuật toán sẽ phân bổ 100% vốn. Khi thị trường chuyển sang Downtrend hoặc nghẽn thanh khoản, thuật toán tự động rút về **100% Tiền mặt (Cash) hoặc Trái phiếu ngắn hạn**.
 - **Loại bỏ tâm lý:** Không sợ hãi, không tham lam, thoát hàng hoàn toàn dựa trên kỷ luật dữ liệu.
 
-##### 🛡️ Chiến lược 2: Delta-Neutral / Cash & Carry Arbitrage (Lợi nhuận phi rủi ro hướng thị trường)
+##### Chiến lược 2: Delta-Neutral / Cash & Carry Arbitrage (Lợi nhuận phi rủi ro hướng thị trường)
 
 - **Cách hoạt động:** Mua tài sản cơ sở ở thị trường cơ sở (Spot) và đồng thời Mở vị thế Short (Bán khống) đúng giá trị đó ở thị trường phái sinh (Futures/Perpetual).
 - **Ứng dụng:** Trong thị trường Crypto hoặc Chứng khoán có phái sinh, tỷ lệ phí funding (Funding Rate) hoặc chênh lệch giá Basis giữa Futures và Spot thường duy trì dương.
 - **Hiệu quả:** Bạn nhận lãi cố định từ phí Funding/Basis mà **giá thị trường tăng hay giảm 50% thì tổng giá trị tài sản của bạn vẫn không thay đổi**. (Lợi nhuận mảng này tùy thời điểm có thể đạt từ 10 - 25%/năm).
 
-##### 🛡️ Chiến lược 3: Dynamic Risk Parity & CPPI (Bảo vệ vốn cố định)
+##### Chiến lược 3: Dynamic Risk Parity & CPPI (Bảo vệ vốn cố định)
 
 - **CPPI (Constant Proportion Portfolio Insurance):** Phân bổ vốn giữa tài sản rủi ro (Cổ phiếu/Crypto) và tài sản an toàn (Tiền gửi/Trái phiếu).
 - **Cơ chế:** Đặt ra một "Mức sàn an toàn" (Ví dụ: Bắt buộc không được lỗ quá 10% tổng vốn). Thuật toán sẽ liên tục tính toán khoản đệm rủi ro (Cushion). Nếu thị trường giảm chạm ngưỡng rủi ro, hệ thống tự động bán sạch tài sản rủi ro để đưa 100% về tiền mặt gửi tiết kiệm, đảm bảo danh mục luôn an toàn.
@@ -365,4 +365,4 @@ MScFE tại WorldQuant University hoàn toàn đáp ứng xuất sắc nhu cầu
 
 ---
 
-🏠 [[HOME|Go to HOME]]
+[[HOME|Go to HOME]]
