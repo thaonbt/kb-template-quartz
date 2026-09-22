@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: MScFE Notes
+  pageTitle: Course Notes (MScFE)
   pageTitleSuffix: " - ThaoNBT"
   enableSPA: true
   enablePopovers: true

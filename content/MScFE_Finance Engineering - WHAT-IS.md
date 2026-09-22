@@ -1,3 +1,7 @@
+---
+lang: en
+---
+
 # MScFE_Finance Engineering - WHAT-IS?
 
 ## Summary

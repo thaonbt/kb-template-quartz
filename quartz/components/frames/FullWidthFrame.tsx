@@ -21,6 +21,13 @@ export const FullWidthFrame: PageFrame = {
     afterBody,
     footer,
   }: PageFrameProps) {
+    const googleTranslate = beforeBody.filter(
+      (component) => component.displayName === "GoogleTranslate",
+    )
+    const pageComponents = beforeBody.filter(
+      (component) => component.displayName !== "GoogleTranslate",
+    )
+
     return (
       <>
         <div class="center full-width">
@@ -30,11 +37,14 @@ export const FullWidthFrame: PageFrame = {
                 <HeaderComponent {...componentData} />
               ))}
             </Header>
-            <div class="popover-hint">
-              {beforeBody.map((BodyComponent) => (
-                <BodyComponent {...componentData} />
-              ))}
-            </div>
+          </div>
+          {googleTranslate.map((TranslateComponent) => (
+            <TranslateComponent {...componentData} />
+          ))}
+          <div class="popover-hint">
+            {pageComponents.map((BodyComponent) => (
+              <BodyComponent {...componentData} />
+            ))}
           </div>
           <Content {...componentData} />
           <hr />
