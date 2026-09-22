@@ -1,5 +1,5 @@
 ---
-title: Quant Notes
+title: MScFE Notes
 ---
 
 # Quant Notes
