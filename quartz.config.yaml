@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Course Notes (MScFE)
+  pageTitle: Quartz Template
   pageTitleSuffix: " - ThaoNBT"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: thaonbt.github.io/kb-thaonbt-quant-notes
+  baseUrl: thaonbt.github.io/kb-template-quartz
   ignorePatterns:
     - private
     - templates
