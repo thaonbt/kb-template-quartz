@@ -21,13 +21,6 @@ export const DefaultFrame: PageFrame = {
     right,
     footer,
   }: PageFrameProps) {
-    const googleTranslate = beforeBody.filter(
-      (component) => component.displayName === "GoogleTranslate",
-    )
-    const pageComponents = beforeBody.filter(
-      (component) => component.displayName !== "GoogleTranslate",
-    )
-
     return (
       <>
         <div class="left sidebar">
@@ -43,11 +36,8 @@ export const DefaultFrame: PageFrame = {
               ))}
             </Header>
           </div>
-          {googleTranslate.map((TranslateComponent) => (
-            <TranslateComponent {...componentData} />
-          ))}
           <div class="popover-hint">
-            {pageComponents.map((BodyComponent) => (
+            {beforeBody.map((BodyComponent) => (
               <BodyComponent {...componentData} />
             ))}
           </div>
