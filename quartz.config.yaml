@@ -154,7 +154,7 @@ plugins:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 10
@@ -203,7 +203,7 @@ plugins:
     enabled: true
     options:
       links:
-        by ThaoNBT: https://thaonbt.github.io/
+        by ThaoNBT: https://thaonbt.github.io/web-template-quartz
         # Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
