@@ -227,9 +227,9 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
+        # - description
         - tags
-        - aliases
+        # - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
