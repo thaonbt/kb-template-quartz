@@ -4,8 +4,6 @@ date: 2026-09-23
 lang: vi
 ---
 
-# Welcome to My Digital Garden 🌱
-
 > **Thank you, [Quartz](https://quartz.jzhao.xyz/)!**
 > Quartz cho phép xây dựng trang web như một Digital Garden mượt mà và trực quan giống như trải nghiệm trên Obsidian. Template này được tối ưu và xây dựng dựa trên nền tảng **Quartz v5**.
 
@@ -69,3 +67,4 @@ Nếu bạn muốn clone repository này về để tự dựng trang web cho ri
 Nếu bạn tìm thấy bất kỳ lỗi nào hoặc muốn đóng góp để cải thiện template này, hãy tạo **Issue** hoặc gửi **Pull Request** trên repository này nhé!
 
 * Chúc bạn xây dựng "Khu vườn tri thức" thật ưng ý! 🌳
+
