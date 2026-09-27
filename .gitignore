@@ -4,3 +4,5 @@ dist/
 public/
 public-docs/
 *.tsbuildinfo
+.vscode/*
+!.vscode/extensions.json

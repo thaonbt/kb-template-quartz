@@ -104,6 +104,18 @@ Published site:
 | `npm run check`                           | Run TypeScript and formatting checks                   |
 | `npm test`                                | Run the test suite                                     |
 
+## Recommended VS Code Extensions
+
+If you open this repo in VS Code or a Codespace, you'll be prompted to install these (see `.vscode/extensions.json`):
+
+| Extension | Why |
+| --------- | --- |
+| Markdown All in One | TOC generation, checkbox/list shortcuts |
+| markdownlint | Catch markdown syntax errors before build |
+| YAML | Frontmatter (properties) validation and autocomplete |
+| Paste Image | Paste clipboard images directly into notes as files |
+| Markdown Preview Enhanced | Preview Mermaid diagrams and KaTeX math; export notes to PDF/HTML/PNG |
+
 ## FAQ
 
 **Does running `npm run docs` overwrite or delete my own notes?**
