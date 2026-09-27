@@ -8,8 +8,6 @@ tags:
 lang: vi
 ---
 
-# Quartz v5: Công cụ hoàn hảo để đưa Obsidian lên trang web và xây dựng Digital Garden
-
 Nếu bạn là một người thích ghi chép, quản lý tri thức cá nhân (PKM) bằng **Obsidian** hoặc các công cụ ghi chú bằng Markdown, chắc chắn bạn từng mong muốn chia sẻ những ghi chú này lên internet dưới dạng một **Digital Garden** (Khu vườn tri thức).
 
 **Quartz v5** chính là chiếc cầu nối tuyệt vời cho mục đích đó. Đây là phiên bản mới nhất của Quartz — công cụ tạo trang web tĩnh (Static Site Generator - SSG) được thiết kế chuyên biệt để biến các tập tin Markdown thành một trang web hiện đại, tốc độ cao và đầy đủ tính năng.
@@ -74,3 +72,4 @@ Nếu bạn là một người thích ghi chép, quản lý tri thức cá nhân
 Nếu bạn đang tìm kiếm một phương thức nhẹ nhàng, thẩm mỹ và hiệu quả để đưa ghi chú cá nhân thành một trang web công khai, **Quartz v5** là một trong những lựa chọn hàng đầu hiện nay.
 
 Chỉ cần cài đặt Node.js (v22+), mở Terminal lên và thực hiện lệnh `git clone https://github.com/jackyzha0/quartz.git`, bạn đã sẵn sàng bắt đầu hành trình xây dựng "Digital Garden" cho riêng mình!
+
