@@ -2,6 +2,24 @@
 
 Digital garden and knowledge base built with [Quartz](https://quartz.jzhao.xyz/).
 
+## Branch policy
+
+This project uses Quartz v5 as the active working branch.
+
+- Default branch: `v5`
+- `main`: kept as a legacy/reference branch only
+- Active development and sync commands should be run from `v5`
+
+Example:
+
+```bash
+git checkout v5
+npx quartz sync
+git push origin v5
+```
+
+If you are deploying from GitHub Pages or another hosting platform, make sure the deployment target is set to the `v5` branch.
+
 ## Requirements
 
 - Node.js 22 or newer
@@ -68,7 +86,7 @@ GitHub Actions will install dependencies, install Quartz plugins, build the site
 
 Published site:
 
-<https://thaonbt.github.io/kb-template-quartz/>
+[https://thaonbt.github.io/kb-template-quartz/](https://thaonbt.github.io/kb-template-quartz/)
 
 ## Useful commands
 
@@ -78,3 +96,4 @@ Published site:
 | `npx quartz build -d docs` | Build the static site into `public/` |
 | `npm run check`            | Run TypeScript and formatting checks |
 | `npm test`                 | Run the test suite                   |
+
