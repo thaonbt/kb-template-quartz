@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz Template
+  pageTitle: Quartz 5
   pageTitleSuffix: " - ThaoNBT"
   enableSPA: true
   enablePopovers: true
@@ -204,6 +204,10 @@ plugins:
     options:
       links:
         by ThaoNBT: https://github.com/thaonbt/kb-template-quartz
+        About: "https://thaonbt.github.io/web-template-astro/about"
+        Profile: "https://thaonbt.github.io/web-template-astro/profile"
+        Portfolio: "https://thaonbt.github.io/web-template-astro/portfolio"
+        Posts: "https://thaonbt.github.io/web-template-astro/posts"
         # Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
