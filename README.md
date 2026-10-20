@@ -24,13 +24,13 @@ If you are deploying from GitHub Pages or another hosting platform, make sure th
 
 After creating a new repo from this template, update the values that are specific to the template itself:
 
-| File                          | What to change                                                               |
-| ----------------------------- | ---------------------------------------------------------------------------- |
+| File                        | What to change                                                       |
+| --------------------------- | -------------------------------------------------------------------- |
 | `quartz.config.yaml`        | `baseUrl` (host and path only, no `https://`), `pageTitle`, `locale` |
-| `quartz.config.yaml`        | Footer `links` (see [Customize the footer](#customize-the-footer))          |
-| `quartz/styles/custom.scss` | The name in the footer credit line (`by ThaoNBT`)                          |
-| `README.md`                 | Repo name, published site URL                                                |
-| `content/`                  | Replace the sample notes with your own                                       |
+| `quartz.config.yaml`        | Footer `links` (see [Customize the footer](#customize-the-footer))   |
+| `quartz/styles/custom.scss` | The name in the footer credit line (`by ThaoNBT`)                    |
+| `README.md`                 | Repo name, published site URL                                        |
+| `content/`                  | Replace the sample notes with your own                               |
 
 `docs/` is the official Quartz documentation that ships with the template. It is only used by `npm run docs` and can be left untouched.
 
@@ -163,14 +163,14 @@ Published site:
 
 ## Useful commands
 
-| Command                                     | Purpose                                                           |
-| ------------------------------------------- | ----------------------------------------------------------------- |
+| Command                                   | Purpose                                                         |
+| ----------------------------------------- | --------------------------------------------------------------- |
 | `npx quartz plugin install --from-config` | Install all plugins referenced in `quartz.config.yaml`          |
 | `npm run docs`                            | Build and serve the official Quartz demo (`docs/`) on port 8080 |
 | `npx quartz build --serve`                | Build and serve your own notes (`content/`)                     |
-| `npm run check`                           | Run TypeScript and formatting checks                              |
-| `npm run format`                          | Format all files with Prettier                                    |
-| `npm test`                                | Run the test suite                                                |
+| `npm run check`                           | Run TypeScript and formatting checks                            |
+| `npm run format`                          | Format all files with Prettier                                  |
+| `npm test`                                | Run the test suite                                              |
 
 ## Recommended VS Code Extensions
 
