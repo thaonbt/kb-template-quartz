@@ -203,8 +203,11 @@ plugins:
     enabled: true
     options:
       links:
-        Source: https://github.com/thaonbt/kb-template-quartz
-        Profile: https://thaonbt.github.io/web-template-astro/profile
+        by ThaoNBT: https://github.com/thaonbt/kb-template-quartz
+        About: "https://thaonbt.github.io/web-template-astro/about"
+        Profile: "https://thaonbt.github.io/web-template-astro/profile"
+        Portfolio: "https://thaonbt.github.io/web-template-astro/portfolio"
+        Posts: "https://thaonbt.github.io/web-template-astro/posts"
     layout:
       position: afterBody
       priority: 50
